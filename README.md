@@ -105,6 +105,6 @@ private WebView mWeb;
         });
 ```
 ### Result
-![GIF]()
+![GIF](https://github.com/dmitrylaas/WebView-Dark-Theme/blob/master/art/result.gif)
 ### Demo apk
 [Releases](https://github.com/dmitrylaas/WebView-Dark-Theme/releases/download/1.0/WebTheme-Example.apk)
