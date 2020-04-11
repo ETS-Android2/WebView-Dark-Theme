@@ -106,5 +106,5 @@ private WebView mWeb;
 ```
 ### Result
 ![GIF](https://github.com/dmitrylaas/WebView-Dark-Theme/blob/master/art/result.gif)
-### Demo apk
-[Download](https://github.com/dmitrylaas/WebView-Dark-Theme/releases/download/1.0/WebTheme-Example.apk)
+### Demo application
+[Download apk](https://github.com/dmitrylaas/WebView-Dark-Theme/releases/download/1.0/WebTheme-Example.apk)
