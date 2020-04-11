@@ -1,4 +1,4 @@
-# WebView-Dark
+# WebView-Dark-Theme
 ## Get start
 Detailed instructions in English
 ### Build gradle (app module)
