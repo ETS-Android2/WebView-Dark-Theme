@@ -1,6 +1,6 @@
 # WebView-Dark-Theme
 ## Get start
-Works on Android 8 and higher. Detailed instructions in English.
+Works on Android 8 and higher. You will find the results below. Detailed instructions in English.
 ### Build gradle (app module)
 ```gradle
 implementation 'androidx.webkit:webkit:1.2.0'
@@ -105,6 +105,7 @@ private WebView mWeb;
         });
 ```
 ### Result
+Demonstrating how compiled code works in an app!
 ![GIF](https://github.com/dmitrylaas/WebView-Dark-Theme/blob/master/art/result.gif)
 ### Demo apk
-[Releases](https://github.com/dmitrylaas/WebView-Dark-Theme/releases/download/1.0/WebTheme-Example.apk)
+[Download](https://github.com/dmitrylaas/WebView-Dark-Theme/releases/download/1.0/WebTheme-Example.apk)
