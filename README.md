@@ -105,7 +105,6 @@ private WebView mWeb;
         });
 ```
 ### Result
-Demonstrating how compiled code works in an app!
 ![GIF](https://github.com/dmitrylaas/WebView-Dark-Theme/blob/master/art/result.gif)
 ### Demo apk
 [Download](https://github.com/dmitrylaas/WebView-Dark-Theme/releases/download/1.0/WebTheme-Example.apk)
