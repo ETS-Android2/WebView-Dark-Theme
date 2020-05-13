@@ -1,6 +1,7 @@
 # WebView Dark Theme
 ## Get start
 Works on Android 8 and higher. You will find the results below. Detailed instructions in English.
+
 P.S. Not worked in Android emulator!
 ### Build gradle (app module)
 ```gradle
