@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         mWeb = findViewById(R.id.web);
         // Включаем Java Script
         mWeb.getSettings().setJavaScriptEnabled(true);
-        // агружаем URL-страницы
+        // Загружаем URL-страницы
         mWeb.loadUrl("http://github.com/dmitrylaas");
         // Настраиваем WebView клиент
         mWeb.setWebViewClient(new WebViewer());
