@@ -4,6 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
 
+    <!--Кнопка включающая светлую (дефолтную) тему-->
+
     <Button
         android:id="@+id/light"
         android:layout_width="match_parent"
@@ -11,6 +13,8 @@
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
         android:text="light" />
+
+    <!--Кнопка включающая тёмную тему-->
 
     <Button
         android:id="@+id/dark"
@@ -21,6 +25,8 @@
         android:layout_marginRight="10dp"
         android:text="dark" />
 
+    <!--WebView, для открытия веб страниц по указанной ссылке-->
+   
     <WebView
         android:id="@+id/web"
         android:layout_below="@+id/dark"
