@@ -33,7 +33,7 @@ private WebView mWeb;
         setContentView(R.layout.activity_main);
         mWeb = findViewById(R.id.web);
         mWeb.getSettings().setJavaScriptEnabled(true);
-        mWeb.loadUrl("http://github.com/dmitrylaas");
+        mWeb.loadUrl("http://github.com/sychify");
         mWeb.setWebViewClient(new WebViewer());
 
     }
@@ -106,7 +106,5 @@ private WebView mWeb;
 
         });
 ```
-### Result
-![GIF](https://github.com/dmitrylaas/WebView-Dark-Theme/blob/master/art/result.gif)
 ### Demo application
-[Download apk](https://github.com/dmitrylaas/WebView-Dark-Theme/releases/download/1.0/WebTheme-Example.apk)
+[Download apk](https://github.com/sychify/WebView-Dark-Theme/releases/download/1.0/WebTheme-Example.apk)
